@@ -10,6 +10,7 @@
 | Universidad           | Universidad de Granada                                       |
 | Departamento          | Análisis Matemático       |
 | Curso                 | 2020/2021                                                    |
+| Profesor              | Javier Pérez  |
 
 ### Información
 
