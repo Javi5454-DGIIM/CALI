@@ -6,7 +6,7 @@
 | --------------------- | ------------------------------------------------------------ |
 | Abreviatura           | `CALI`                                                       |
 | Grado correspondiente | Matemáticas                                   |
-| Facultad              | Escuela Técnica Superior de Ingeniería Informática y de Telecomunicación (ETSIIT)  |
+| Facultad              | Facultad de Ciencias  |
 | Universidad           | Universidad de Granada                                       |
 | Departamento          | Análisis Matemático       |
 | Curso                 | 2020/2021                                                    |
