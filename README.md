@@ -5,7 +5,7 @@
 | Nombre                | Cálculo I                                                    |
 | --------------------- | ------------------------------------------------------------ |
 | Abreviatura           | `CALI`                                                       |
-| Grado correspondiente | Matem                                      |
+| Grado correspondiente | Matemáticas                                   |
 | Facultad              | Escuela Técnica Superior de Ingeniería Informática y de Telecomunicación (ETSIIT)  |
 | Universidad           | Universidad de Granada                                       |
 | Departamento          | Análisis Matemático       |
