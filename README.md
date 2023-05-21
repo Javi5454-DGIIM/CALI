@@ -27,4 +27,4 @@ Al contenido de este repositorio han contribuido además:
 
 El contenido de este repositorio ha sido creado por mí y por los profesores de la asignatura, y se distribuye bajo una licencia **Creative Commons Zero v1.0 Universal** (más información [aquí](./LICENSE)).
 
-En caso de que detectes contenidos que violen los derechos de propiedad intelectual, por favor contacta conmigo en [hello@mianfg.me](mailto:hello@mianfg.me).
+En caso de que detectes contenidos que violen los derechos de propiedad intelectual, por favor contacta conmigo en [javier-gomezlopez@outlook.es](mailto:javier-gomezlopez@outlook.es).
